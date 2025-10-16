@@ -69,8 +69,8 @@ It allows users to **browse movies, view show timings, select seats, and book ti
 **Sumit Gaikwad**  
 🎓 B.Tech CSE, Pimpri Chinchwad University  
 💻 Passionate about MERN Development, Cloud & Security  
-🔗 [GitHub](https://github.com/your-username)  
-🔗 [LinkedIn](https://linkedin.com/in/your-link)
+🔗 [Instagram](https://www.instagram.com/sumitsg_2803/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sumit-gaikwad-176996289)
 
 ---
 
